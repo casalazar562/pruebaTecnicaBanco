@@ -1,0 +1,69 @@
+/* Tabs*/
+section {
+  padding: 60px 0;
+}
+
+section .section-title {
+  text-align: center;
+  color: #007b5e;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+}
+#tabs{
+background: #fff;
+  color: #000;
+}
+#tabs h6.section-title{
+  color: #000;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: #007bff;
+  background-color: transparent;
+  border-color: transparent transparent #007bff;
+  border-bottom: 4px solid !important;
+  font-size: 20px;
+  font-weight: bold;
+}
+#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link label {
+  color: #000 !important;
+
+}
+#tabs .nav-tabs .nav-link {
+  border: 1px solid transparent;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+  color: #007bff;
+  font-size: 20px;
+}
+#tabs .nav-tabs .nav-link label {
+
+  color: #000 !important;
+
+}
+
+.col-center{
+  float: none;
+  margin: 0 auto;
+}
+
+.contenedor-text{
+  color:#007bff ;
+  font-weight: bolder;
+}
+
+.flecha{
+  color:#007bff ;
+}
+
+.circulo{
+  color:#007bff ;
+  font-size: 6px;
+}
+
+.card{
+
+width: 163px;
+height: 168px;
+}
+
